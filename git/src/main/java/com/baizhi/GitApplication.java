@@ -9,6 +9,7 @@ public class GitApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitApplication.class, args);
         System.out.println("更改idea中的SpringApplication");
+       System.out.println("更改github中的SpringApplication");
     }
 
 }
